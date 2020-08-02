@@ -24,3 +24,4 @@ class ToutiaoSpider(Spider):
             yield item
         except:
             print('与规则不符,抓取失败')
+            print('git test========')
